@@ -1,0 +1,10 @@
+.course-goals h2 {
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  background: #dcf0d1;
+}
+.course-goals main{
+  background: #dcf0d1;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  width: 80%;
+}

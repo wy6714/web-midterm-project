@@ -1,0 +1,35 @@
+.goal-list {
+    list-style: none;
+    margin: 2rem;
+    padding: 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    background: #dcf0d1;
+    border: 1px solid black;
+    
+}
+
+.goal-list li {
+    margin: 1rem 0;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 6px;
+    background: #dcf0d1; 
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+
+.goal-list ul {
+    margin: 1rem 0;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 6px;
+    background: #dcf0d1; 
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+
+}
+.goal-list.characters{
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 6px;
+    background: #dcf0d1; 
+}
